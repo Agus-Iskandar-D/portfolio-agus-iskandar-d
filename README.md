@@ -6,7 +6,7 @@ But, I have taken some courses related AI in introduction level. Here are the fo
 ## 1. Belajar Dasar Data Science (Introduction to Data Science)
 ![BDS](https://github.com/Agus-Iskandar-D/portfolio-agus-iskandar-d/blob/main/belajar%20data%20science.png)
 
-## 2. AI Praktif untuk Produktif (AI Practice for Productive Work)
+## 2. AI Praktis untuk Produktif (AI Practice for Productive Work)
 ![AIP](https://github.com/Agus-Iskandar-D/portfolio-agus-iskandar-d/blob/main/Produktif%20dengan%20AI.png)
 
 ## 3. Belajar Penggunaan Generative AI (How to Use Gen AI)
@@ -16,4 +16,6 @@ But, I have taken some courses related AI in introduction level. Here are the fo
 ## I still learn in the basic level. Now, I am joining Eco Techno Leader Boothcamp a early part of my journey to deep dive in AI ocean.
 ## Please kindly check my resume for further information of me
 ![My Resume png](https://github.com/Agus-Iskandar-D/portfolio-agus-iskandar-d/blob/main/General%20Resume%20Agus%20ID.png)
+
+## My Resume in PDF:
 ![My Resume](https://github.com/Agus-Iskandar-D/portfolio-agus-iskandar-d/blob/main/General%20Resume%20Agus%20ID.pdf)
